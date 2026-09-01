@@ -1,0 +1,15 @@
+{
+  "test/simulation/test_delay.py::test_ff_degenerated[1-32]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[1-64]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[1-128]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[2-32]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[2-64]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[2-128]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[4-32]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[4-64]": true,
+  "test/simulation/test_delay.py::test_ff_degenerated[4-128]": true,
+  "test/simulation/test_delay.py::test_ff_1_loop": true,
+  "test/simulation/test_delay.py::test_ff_2_loops_sequentially": true,
+  "test/simulation/test_delay.py::test_ff_2_loops_interleaved": true,
+  "test/simulation/test_delay.py::test_ff_2_loops_same_arbiter": true
+}

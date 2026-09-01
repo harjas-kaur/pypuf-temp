@@ -1,0 +1,4 @@
+memory_profiler
+numpy>=1.18
+scipy>=1.5
+more_itertools
